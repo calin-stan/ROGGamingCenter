@@ -11,6 +11,6 @@ You can find the compiled files in *Compiled files.zip*
 
 # How to use the resulted files:
 - Go to C:\Program Files (x86)\ASUS\ROG Gaming Center
-- Save ROGGamingCenter.exe somewhere for later use
-- Copy the compiled files (without the publish folder) to the ROG Gaming Center
+- Save ROGGamingCenter.exe somewhere for later use (you can find it in this repo, but it will most likely not be the same version as yours)
+- Copy all the files except the **publish** folder to the ROG Gaming Center folder
 
