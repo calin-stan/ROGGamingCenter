@@ -1,5 +1,5 @@
-# ROGGamingCenter
-Replace the ROG Gaming Center with NumLock key
+# ROG Gaming Center key remapping
+Replace the ROG Gaming Center key with NumLock key.
 
 You can find the compiled files in *Compiled files.zip* 
 
